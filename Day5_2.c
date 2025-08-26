@@ -25,5 +25,6 @@ int main(){
     min = sec/60;
     sec=sec%60;
     printf("%d : %d : %d",hour,min,sec);
+    
     return 0;
 }
