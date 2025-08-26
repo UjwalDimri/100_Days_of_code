@@ -13,7 +13,7 @@
 // Output 2:
 // 12 is even 
 
-#include<stdio.h>
+#include<stdio.h> 
 int main(){
     int n;
     printf("Enter any Number :");
