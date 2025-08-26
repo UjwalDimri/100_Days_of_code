@@ -24,4 +24,5 @@ int main(){
     int product = a*b;
     float quotient = a/2;
     printf(" Sum=%d \n Diffrence=%d \n Product=%d \n Quotient=%f \n  ",sum,difference,product,quotient);
+    return 0 ;
 }
