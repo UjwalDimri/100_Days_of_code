@@ -24,6 +24,7 @@ int area = length*breadth;
 c=length+breadth;
  perimeter = 2*c;
 printf("Area=%d \n Perimeter=%d ",area,perimeter);
+
 return 0;
 }
 
