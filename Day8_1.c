@@ -35,6 +35,7 @@ int main(){
     }else {
         printf("Its a special charcter ");
     }
+    
     return 0;
 
 }
