@@ -27,8 +27,8 @@ int main(){
         printf("Isosecles");
     }else if((x!=y)&&(y!=z)&&(z!=x)){
         printf("Scalene");
-    }else [
+    }else {
         printf("Enter vaild");
-    ]
+    }
     return 0;
 }

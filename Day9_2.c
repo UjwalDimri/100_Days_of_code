@@ -38,10 +38,10 @@
         printf("Grade E");
     }
 
-    else if (percentage>=50){
+    else if (percentage>=33){
         printf("Grade F");
 
-    }else if (percentage>=40){
+    }else if (percentage<33){
         printf("Grade Fail ");
     }
     return 0;
