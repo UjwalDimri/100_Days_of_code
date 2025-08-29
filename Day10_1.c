@@ -21,7 +21,7 @@ int main(){
     int x,y,z;
     printf("Enter three sides of triangle :");
     scanf("%d %d %d",&x,&y,&z);
-    if((x=y)&&(y=z)&&(z=a)){
+    if((x=y)&&(y=z)&&(z=x)){
         printf("Equilateral");
     }else if((x=y)&&(y=z)||(y=z)&&(z=x)){
         printf("Isosecles");
