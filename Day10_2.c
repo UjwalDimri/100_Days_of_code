@@ -39,7 +39,8 @@ int main(){
         case 7:
           printf("Sunday");
            break;  
-        
+        default:
+           printf("Enter a Vaild num (1-7)");
     }
     
     return 0;
