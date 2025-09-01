@@ -37,7 +37,10 @@ int main(){
         float _bill;
         bill= l_days*8.3+32;
         printf("Fine ₹%d",bill);
+    } else {
+        printf("INVALID VALUE ENTER A POSITIVE INTERGER ");
     }
+    
     return 0;
 
 }
