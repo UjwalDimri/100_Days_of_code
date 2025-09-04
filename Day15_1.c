@@ -21,5 +21,6 @@ int main(){
         fact=fact * i;
     }
     printf("%d",fact);
+    
     return 0;
 }
