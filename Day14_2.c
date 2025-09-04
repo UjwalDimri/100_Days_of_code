@@ -17,12 +17,16 @@ int main(){
     int n;int product =1;
     printf("Enter any number :");
     scanf("%d",&n);
-    for(int i=1;i<=n;i++){
-        if(i%2==0){
+    if(n<2){
+        printf("No even numbers upto %d",n);
+    }
+    for(int i=2;i<=n;i+=2){
+            
             product=product*i;
 
-        }
+        
+        
     } 
-    printf("%d (i*)",product);
+    printf("%d",product);
     return 0;
 }
