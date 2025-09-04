@@ -25,5 +25,6 @@ int main() {
         i++;
     }
     printf("%d",sum);
+    
     return 0;
 }
