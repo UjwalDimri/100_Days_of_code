@@ -1,17 +1,17 @@
 // 🔁
-// Q30 (Loops without Arrays/Strings)
+// Q32 (Loops without Arrays/Strings)
 // 📋
-// Write a program to reverse a given number.
+// Write a program to check if a number is a palindrome.
 
 // Show Sample Test Cases
 // Input 1:
-// 1234
+// 121
 // Output 1:
-// 4321
+// Palindrome
 // Input 2:
-// 100
+// 123
 // Output 2:
-// 1
+// Not palindrome 
 #include<stdio.h>
 int main(){
     int n;int rem ;int rev=0;
