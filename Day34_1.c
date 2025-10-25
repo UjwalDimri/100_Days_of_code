@@ -16,7 +16,7 @@ int main(){
     scanf("%d",&n);
     int arr[n+1];
     for(int i=0;i<n;i++){
-       printf("Enter a Number {in assending Order as a sorted array }:");
+       printf("Enter a Number :");
        scanf("%d",&arr[i]);
     }
     int index,num;
