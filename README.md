@@ -53,8 +53,8 @@ This set focuses on **C programming basics and logical problem solving**.
 ---
 
 ## 📫 Connect with Me
-- GitHub: [@YourUsername](https://github.com/UjwalDimri)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/UjwalDimri)  
+- GitHub: [GitHUB](https://github.com/UjwalDimri)  
+- LinkedIn: [My LINKDIN](https://www.linkedin.com/in/ujwal-dimri-82400729a/)  
 
 ---
 
