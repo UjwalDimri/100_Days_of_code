@@ -1,6 +1,6 @@
 # ✨ Daily Challenge – 100 Days of Code (UPES) ✨
 
-![UPES Logo](https://upload.wikimedia.org/wikipedia/commons/1/10/Logo-upes.png)  
+![UPES Logo](https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo-upes.png)  
 
 Welcome to my **100 Days of Code Challenge**! 🚀  
 This repository documents my **C programming & Logic Building journey** for UPES.  
