@@ -27,7 +27,7 @@ for(int j=0;j<n;j++){
         max=arr[j];
     }
     else if(arr[j] > sec_max && arr[j] < max){
-            sec_max = arr[j]
+            sec_max = arr[j];
     }
 }
 printf("%d",sec_max);
